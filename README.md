@@ -3,8 +3,8 @@ This repository contains the externalised setup JSON files. These setup files ar
 ### **Ledgerium TestNet**
 We have two testnets:
 
-ChainID (2018) - **Toorak**
-ChainID (2019) - **Flinders**
+- ChainID (2018) - **Toorak**
+- ChainID (2019) - **Flinders**
 
 #### **genesis.json**
 It contains the genesis block of specific network.
